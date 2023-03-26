@@ -1,0 +1,43 @@
+.container {
+	margin: 0 auto;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+span{
+  margin-left: 10px;
+}
+
+.satu{
+  background-color:rgb(233, 201, 159);
+  padding: 20px;
+}
+
+.kiri{
+  background-color:rgb(161, 146, 146);
+}
+
+.kanan{
+  background-color:rgb(247, 235, 214);
+}
+
+img {
+	border-radius: 50%;
+	margin-top: auto;
+	display:block;
+	max-width: 130px;
+    align-items:normal;
+}
+
+h3{
+	font-size: 18px;
+}
+
+
+p {
+	font-size: 15px;
+	margin-top: auto;
+}
